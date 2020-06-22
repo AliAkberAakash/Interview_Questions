@@ -1,0 +1,16 @@
+[
+{
+		"id": 1,
+		"type": "elaborate",
+		"category": "Android",
+		"question": "What is a broadcast receiver?",
+		"answer": "The broadcast receiver communicates with the operation system messages such as “check whether an internet connection is available,” what the battery label should be, etc."
+	},
+	{
+		"id": 2,
+		"type": "elaborate",
+		"category": "Android",
+		"question": "What is a ContentProvider and what is it typically used for?",
+		"answer": "A ContentProvider manages access to a structured set of data. It encapsulates the data and provide mechanisms for defining data security. ContentProvider is the standard interface that connects data in one process with code running in another process."
+	}
+]
