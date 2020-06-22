@@ -1,0 +1,29 @@
+[{
+		"id": 1,
+		"type": "elaborate",
+		"category": "Android",
+		"question": "What is a broadcast receiver?",
+		"answer": "The broadcast receiver communicates with the operation system messages such as “check whether an internet connection is available,” what the battery label should be, etc."
+	},
+	{
+		"id": 2,
+		"type": "elaborate",
+		"category": "Android",
+		"question": "What is a ContentProvider and what is it typically used for?",
+		"answer": "A ContentProvider manages access to a structured set of data. It encapsulates the data and provide mechanisms for defining data security. ContentProvider is the standard interface that connects data in one process with code running in another process."
+	},
+	{
+		"id": 3,
+		"type": "elaborate",
+		"category": "OOP",
+		"question": "What is Abstraction?",
+		"answer": "Abstraction is an OOPS concept to construct the structure of the real world objects. During this construction only the general states and behaviors are taken and more specific states and behaviors are left aside for the implementers."
+	},
+	{
+		"id": 4,
+		"type": "elaborate",
+		"category": "OOP",
+		"question": "Why does Java not support multiple inheritance?",
+		"answer": "Java was designed to be a simple language and multiple inheritance introduces complexities like diamond problems. Inheriting states or behaviors from two different type of classes is a case which in reality is very rare and it can be achieved easily through an object association."
+	}
+]
