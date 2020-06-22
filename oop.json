@@ -1,0 +1,16 @@
+[
+{
+		"id": 1,
+		"type": "elaborate",
+		"category": "OOP",
+		"question": "What is Abstraction?",
+		"answer": "Abstraction is an OOPS concept to construct the structure of the real world objects. During this construction only the general states and behaviors are taken and more specific states and behaviors are left aside for the implementers."
+	},
+	{
+		"id": 2,
+		"type": "elaborate",
+		"category": "OOP",
+		"question": "Why does Java not support multiple inheritance?",
+		"answer": "Java was designed to be a simple language and multiple inheritance introduces complexities like diamond problems. Inheriting states or behaviors from two different type of classes is a case which in reality is very rare and it can be achieved easily through an object association."
+	}
+]
